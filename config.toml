@@ -30,7 +30,7 @@ paginate     = 10
 
   [[params.social]]
     name = "discord"
-    url = "https://bit.ly/hsm3discord"
+    url = "https://bit.ly/hsm3-discord"
 
   [[params.social]]
     name = "twitter"
