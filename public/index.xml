@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HSM3</title>
-    <link>https://hsm3.org/</link>
-    <description>Recent content on HSM3</description>
+    <title>HSM3 Docs</title>
+    <link>https://docs.hsm3.org/</link>
+    <description>Recent content on HSM3 Docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hsm3.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://docs.hsm3.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
