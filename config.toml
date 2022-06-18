@@ -32,6 +32,10 @@ paginate     = 10
     name = "discord"
     url = "https://bit.ly/hsm3discord"
 
+  [[params.social]]
+    name = "twitter"
+    url = "https://bit.ly/hsm3_project"
+
 #[taxonomies]
 #    category = "blog"
 #    tag      = "tags"
