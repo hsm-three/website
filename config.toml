@@ -34,7 +34,7 @@ paginate     = 10
 
   [[params.social]]
     name = "twitter"
-    url = "https://bit.ly/hsm3_project"
+    url = "https://twitter.com/HSM3_project"
 
 #[taxonomies]
 #    category = "blog"
